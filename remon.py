@@ -1209,21 +1209,14 @@ def TAYYAB():
     print("[1] RANDOM CLONE NP\n[2] RANDOM CLONE IND\n[3] RANDOM CLONE PK\n[4] RANDOM CLONE BD\n[5] RANDOM CLONE WITH CHOOSE PSWD\n[6] RANDOM CLONE WITH I LOVE YOU & FREE FIRE PSWD\n[7] CONTACT OWNER")
     print(49*'=')
     aryan = input("✓CHOOSE>")
-    if aryan =='1':TAYYAB1()
-    elif aryan =='2':TAYYAB2()
-    elif aryan =='3':TAYYAB3()
-    elif aryan =='4':TAYYAB4()
-    elif aryan =='5':TAYYAB5()
-    elif aryan == '6':
-    print("OPTION 6 NOT AVAILABLE")
-    TAYYAB()
-elif aryan == '7':
-    os.system("xdg-open https://www.facebook.com/profile.php?id=61591899856853")
-    TAYYAB()
-    elif aryan =='7':os.system("xdg-open https://www.facebook.com/profile.php?id=61591899856853")
-    else:
-        print("SELECT CORRECT OPTION")
-        TAYYAB()
+    if aryan == '1': TAYYAB1()
+elif aryan == '2': TAYYAB2()
+elif aryan == '3': TAYYAB3()
+elif aryan == '4': TAYYAB4()
+elif aryan == '5': TAYYAB5()
+elif aryan == '6': print("OPTION 6 NOT AVAILABLE")
+else:
+    print("OPTION NOT AVAILABLE")
 
 def TAYYAB1():
         user=[]
