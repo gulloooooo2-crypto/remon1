@@ -1214,7 +1214,8 @@ elif aryan == '2': TAYYAB2()
 elif aryan == '3': TAYYAB3()
 elif aryan == '4': TAYYAB4()
 elif aryan == '5': TAYYAB5()
-elif aryan == '6': print("OPTION 6 NOT AVAILABLE")
+elif aryan == '6': print("OPTION 6 
+NOT AVAILABLE")
     
 
 def TAYYAB1():
