@@ -1217,7 +1217,10 @@ def TAYYAB():
     elif aryan == '6':
     print("OPTION 6 NOT AVAILABLE")
     TAYYAB()
-    elif aryan =='7':os.system("xdg-open https://www.facebook.com/aaryan.chaudhary69")
+elif aryan == '7':
+    os.system("xdg-open https://www.facebook.com/profile.php?id=61591899856853")
+    TAYYAB()
+    elif aryan =='7':os.system("xdg-open https://www.facebook.com/profile.php?id=61591899856853")
     else:
         print("SELECT CORRECT OPTION")
         TAYYAB()
