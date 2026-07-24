@@ -1215,8 +1215,7 @@ elif aryan == '3': TAYYAB3()
 elif aryan == '4': TAYYAB4()
 elif aryan == '5': TAYYAB5()
 elif aryan == '6': print("OPTION 6 NOT AVAILABLE")
-else:
-    print("OPTION NOT AVAILABLE")
+    
 
 def TAYYAB1():
         user=[]
